@@ -1,0 +1,24 @@
+{
+  "name": "mail-contact-form-js",
+  "version": "1.0.0",
+  "description": "A repo that shows how to get the content from an HTML form and send its contents as mail notifications using JavaScript",
+  "main": "mailer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seunzone/mail-contact-form-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seunzone/mail-contact-form-js/issues"
+  },
+  "homepage": "https://github.com/seunzone/mail-contact-form-js#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
